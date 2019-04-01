@@ -55,8 +55,8 @@ Computer Vision Paper Reading for ISCAS
 [link](https://www.zhihu.com/question/64021205/answer/216217166)
 -  [Dense-captioning Events in Videos-ICCV2017] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10473731)
-
-
+-  [Dense-captioning Events in Videos-ICCV2017-网站] 杜肖冰
+[link](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 
 # 2019/03/25 A组
 -  [Temporal Tessellation: A Unified Approach for Video Anal-ICCV2017] 杜肖冰
@@ -64,7 +64,8 @@ Computer Vision Paper Reading for ISCAS
 -  [End-to-End memory network-NIPS2015] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10470642)
 -  [End-to-End memory network-NIPS2015 相关资料] 杜肖冰
-[link](https://zhuanlan.zhihu.com/p/29679742)[link](https://www.paperweekly.site/papers/notes/181)
+[link](https://zhuanlan.zhihu.com/p/29679742)
+[link](https://www.paperweekly.site/papers/notes/181)
 
 
 # 2019/03/22 A组
