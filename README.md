@@ -11,6 +11,10 @@ Computer Vision Paper Reading for ISCAS
 - [ccf 推荐排名](http://www.ccf.org.cn/xspj/gyml/) 想毕业发论文的。。。
 
 # next time
+# 2019/04/09 A组
+-  [Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction-ACMMM2018] 杜肖冰
+[link](http://ddl.escience.cn/sketchvideo/r/10471665)
+
 # 2019/04/08 A组
 -  [Video Analysis 相关领域解读之Temporal Action Detection(时序行为检测)-林天威] 杜肖冰
 [link](https://zhuanlan.zhihu.com/p/26603387)
