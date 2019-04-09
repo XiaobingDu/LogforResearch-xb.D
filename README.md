@@ -74,6 +74,8 @@ Computer Vision Paper Reading for ISCAS
 [pdf](http://ddl.escience.cn/sketchvideo/r/10473731)
 -  [Dense-captioning Events in Videos-ICCV2017-网站] 杜肖冰
 [link](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
+-  [Dense-captioning Events in Videos-ICCV2017-ActivityNetDatabase] 杜肖冰
+[link](http://activity-net.org/challenges/2016/download.html#c3d)
 
 # 2019/03/25 A组
 -  [Temporal Tessellation: A Unified Approach for Video Anal-ICCV2017] 杜肖冰
