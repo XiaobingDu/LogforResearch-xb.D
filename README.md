@@ -14,6 +14,11 @@ Computer Vision Paper Reading for ISCAS
 # 2019/04/09 A组
 -  [Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction-ACMMM2018] 杜肖冰
 [link](http://ddl.escience.cn/sketchvideo/r/10471665)
+-  [Micro tells macro: Predicting the popularity of micro-videos via a transductive model-ACMMM2016(Nie)] 杜肖冰
+[link](http://ddl.escience.cn/sketchvideo/r/10471663)
+-  [Attentive collaborative filtering: Multimedia recommendation with item-and component-level attention-SIGIR2017(Nie)] 杜肖冰
+[link](http://ddl.escience.cn/sketchvideo/r/10484708)
+
 
 # 2019/04/08 A组
 -  [Video Analysis 相关领域解读之Temporal Action Detection(时序行为检测)-林天威] 杜肖冰
@@ -110,7 +115,7 @@ Computer Vision Paper Reading for ISCAS
 [pdf](http://ddl.escience.cn/sketchvideo/r/10465320)
 
 # 2019/03/14 A组
--  [Towards Micro-video Understanding by Joint Sequential-Sparse Modeling] 杜肖冰
+-  [Towards Micro-video Understanding by Joint Sequential-Sparse Modeling-ACMMM2017(Nie)] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10461256)
 -  [Towards Micro-video Understanding by Joint Sequential-Sparse Modeling-code&data] 杜肖冰
 [link](https://acmmm17.wixsite.com/eastern)
