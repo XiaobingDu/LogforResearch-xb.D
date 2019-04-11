@@ -14,6 +14,10 @@ Computer Vision Paper Reading for ISCAS
 # 2019/04/11 A组
 -  [Query-focused extractive video summarization-ECCV2016] 杜肖冰
 [link](https://arxiv.org/pdf/1607.05177.pdf)
+-  [Tvsum: Summarizing web videos using titles-CVPR2015] 杜肖冰
+[link](http://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)
+
+
 
 
 # 2019/04/09 A组
