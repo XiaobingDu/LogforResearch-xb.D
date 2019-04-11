@@ -11,6 +11,11 @@ Computer Vision Paper Reading for ISCAS
 - [ccf 推荐排名](http://www.ccf.org.cn/xspj/gyml/) 想毕业发论文的。。。
 
 # next time
+# 2019/04/11 A组
+-  [Query-focused extractive video summarization-ECCV2016] 杜肖冰
+[link](https://arxiv.org/pdf/1607.05177.pdf)
+
+
 # 2019/04/09 A组
 -  [Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction-ACMMM2018] 杜肖冰
 [link](http://ddl.escience.cn/sketchvideo/r/10471665)
