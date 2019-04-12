@@ -16,6 +16,9 @@ Computer Vision Paper Reading for ISCAS
 [link](http://movieqa.cs.toronto.edu/home/)
 -  [MovieQA: Story Understanding Code-Github] 杜肖冰
 [link](https://github.com/makarandtapaswi/MovieQA_CVPR2016/)
+-  [Visual Semantic Search: Retrieving Videos via Complex Textual Queries-ICCV2014] 杜肖冰
+[link](http://dahua.me/publications/dhl14_vss.pdf)
+
 
 # 2019/04/11 A组
 -  [Query-focused extractive video summarization-ECCV2016] 杜肖冰
