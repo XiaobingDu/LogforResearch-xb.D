@@ -30,10 +30,6 @@ Computer Vision Paper Reading for ISCAS
 -  [Person Search with Natural Language Description-CVPR2017] 杜肖冰
 [link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf)
 
-
-
-
-
 # 2019/04/09 A组
 -  [Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction-ACMMM2018] 杜肖冰
 [link](http://ddl.escience.cn/sketchvideo/r/10471665)
