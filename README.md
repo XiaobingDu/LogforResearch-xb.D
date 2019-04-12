@@ -14,6 +14,8 @@ Computer Vision Paper Reading for ISCAS
 # 2019/04/12 A组
 -  [MovieQA: Story Understanding Benchmark-CVPR2016] 杜肖冰
 [link](http://movieqa.cs.toronto.edu/home/)
+-  [MovieQA: Story Understanding Code-Github] 杜肖冰
+[link](https://github.com/makarandtapaswi/MovieQA_CVPR2016/)
 
 # 2019/04/11 A组
 -  [Query-focused extractive video summarization-ECCV2016] 杜肖冰
