@@ -11,7 +11,7 @@ Computer Vision Paper Reading for ISCAS
 - [ccf 推荐排名](http://www.ccf.org.cn/xspj/gyml/) 想毕业发论文的。。。
 
 # next time
-# 2019/04/12 A组
+# 2019/04/14 A组
 -  Cited By Localizing Moments in Video with Natural Language-ICCV2017
 -  [ExCL: Extractive Clip Localization Using Natural Language Descriptions-ArXiv2019] 杜肖冰
 [link](https://arxiv.org/pdf/1904.02755.pdf)
