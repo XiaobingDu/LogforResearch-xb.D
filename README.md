@@ -12,9 +12,10 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 # 2019/04/12 A组
-# Cited By Localizing Moments in Video with Natural Language-ICCV2017
+- # Cited By Localizing Moments in Video with Natural Language-ICCV2017
 -  [ExCL: Extractive Clip Localization Using Natural Language Descriptions-ArXiv2019] 杜肖冰
 [link](https://arxiv.org/pdf/1904.02755.pdf)
+
 
 
 # 2019/04/12 A组
