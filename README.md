@@ -17,7 +17,6 @@ Computer Vision Paper Reading for ISCAS
 [link](https://arxiv.org/pdf/1904.02755.pdf)
 
 
-
 # 2019/04/12 A组
 -  [MovieQA: Story Understanding Benchmark-CVPR2016] 杜肖冰
 [link](http://movieqa.cs.toronto.edu/home/)
