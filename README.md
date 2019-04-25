@@ -15,7 +15,8 @@ Computer Vision Paper Reading for ISCAS
  单元格内容  | 单元格内容
  单元格内容l  | 单元格内容
 
-# next time# 2019/04/25 A组
+# next time
+# 2019/04/25 A组
 -  [Finding Actors and Actions in Movies-CVPR2013] 杜肖冰
 [link](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bojanowski_Finding_Actors_and_2013_ICCV_paper.pdf)
 
