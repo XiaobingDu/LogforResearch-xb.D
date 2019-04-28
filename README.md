@@ -16,6 +16,10 @@ Computer Vision Paper Reading for ISCAS
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/04/28 A组
+-  [Non-local Neural Networks-CVPR2018] 杜肖冰
+[link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
+
 # 2019/04/26 A组
 -  [Long-Term Feature Banks for Detailed Video Understanding-CVPR2019] 杜肖冰
 [link](https://arxiv.org/pdf/1812.05038.pdf)
