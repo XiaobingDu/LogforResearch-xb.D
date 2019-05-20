@@ -16,6 +16,10 @@ Computer Vision Paper Reading for ISCAS
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/05/19 A组
+-  [TALL: Temporal Activity Localization via Language Query-ICCV2017-code] 杜肖冰
+[link](https://github.com/jiyanggao/TALL)
+
 # 2019/05/18 A组
 -  [AI-Sketcher : A Deep Generative Model for Producing High-Quality Sketches-AAAI2019] 杜肖冰
 [link](https://idvxlab.com/papers/2019AAAI_Sketcher_Cao.pdf)
