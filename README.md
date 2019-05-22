@@ -25,6 +25,8 @@ Computer Vision Paper Reading for ISCAS
 [link](https://arxiv.org/pdf/1704.04497.pdf)
 -  [Stacked attention networks for image question answering-CVPR2016] 杜肖冰
 [link](https://arxiv.org/pdf/1511.02274.pdf)
+-  [Ask Me Anything:Dynamic Memory Networks for Natural Language Processing-ICML2016] 杜肖冰
+[link](https://arxiv.org/pdf/1506.07285.pdf)
 
 # 2019/05/19 A组
 -  [TALL: Temporal Activity Localization via Language Query-ICCV2017-code] 杜肖冰
