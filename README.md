@@ -16,6 +16,10 @@ Computer Vision Paper Reading for ISCAS
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/05/22 A组
+-  [Red: Reinforced encoder- decoder networks for action anticipation.-BMVC2017] 杜肖冰
+[link](https://arxiv.org/pdf/1707.04818.pdf)
+
 # 2019/05/19 A组
 -  [TALL: Temporal Activity Localization via Language Query-ICCV2017-code] 杜肖冰
 [link](https://github.com/jiyanggao/TALL)
