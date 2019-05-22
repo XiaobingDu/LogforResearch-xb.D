@@ -27,6 +27,8 @@ Computer Vision Paper Reading for ISCAS
 [link](https://arxiv.org/pdf/1511.02274.pdf)
 -  [Ask Me Anything:Dynamic Memory Networks for Natural Language Processing-ICML2016] 杜肖冰
 [link](https://arxiv.org/pdf/1506.07285.pdf)
+-  [Dynamic memory networks for visual and textual question answering-ICML2016] 杜肖冰
+[link](https://arxiv.org/pdf/1603.01417.pdf)
 -  [A read-write memory network for movie story understanding-ICCV2017] 杜肖冰
 [link](https://arxiv.org/pdf/1709.09345.pdf)
 
