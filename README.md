@@ -16,6 +16,12 @@ Computer Vision Paper Reading for ISCAS
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/05/23 A组
+-  [MovieQA: Understanding Stories in Movies through Question-Answering-CVPR2016] 杜肖冰
+[link](http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf)
+-  [MovieQA: Understanding Stories in Movies through Question-Answering-CVPR2016-code] 杜肖冰
+[link](https://github.com/XiaobingDu/MovieQA_CVPR2016)
+
 # 2019/05/22 A组
 -  [Red: Reinforced encoder-decoder networks for action anticipation.-BMVC2017] 杜肖冰
 [link](https://arxiv.org/pdf/1707.04818.pdf)
