@@ -16,6 +16,15 @@ Computer Vision Paper Reading for ISCAS
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/05/27 A组
+- Jiyang Gao
+-  [MAC: Mining Activity Concepts for Language-based Temporal Localization-ArXiv] 杜肖冰
+[link](https://arxiv.org/pdf/1811.08925.pdf)
+-  [Knowledge Aided Consistency for Weakly Supervised Phrase Grounding-CVPR2018] 杜肖冰
+[link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Knowledge_Aided_Consistency_CVPR_2018_paper.pdf)
+-  [CTEP:Complementary Temporal Action Proposal Generation-ECCV2018] 杜肖冰
+[link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiyang_Gao_CTAP_Complementary_Temporal_ECCV_2018_paper.pdf)
+
 # 2019/05/23 A组
 -  [MovieQA: Understanding Stories in Movies through Question-Answering-CVPR2016] 杜肖冰
 [link](http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf)
