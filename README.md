@@ -22,6 +22,8 @@ Computer Vision Paper Reading for ISCAS
 -  [Memory Networks.-ICLR2015] 杜肖冰 [link](https://arxiv.org/pdf/1410.3916.pdf)
 -  [Ask Me Anything:Dynamic Memory Networks for Natural Language Processing-ICML2016] 杜肖冰
 [link](https://arxiv.org/pdf/1506.07285.pdf)
+-  [Key-value Memory Networks for Directly Read- ing Documents.-EMNLP2016] 杜肖冰
+[link](https://arxiv.org/pdf/1606.03126.pdf)
 
 # 2019/05/27 A组
 - Jiyang Gao
