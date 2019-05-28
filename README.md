@@ -1,9 +1,9 @@
 # LogforResearch-xb.D
-Create by Xiaobing Du 
-20190401
+- Create by Xiaobing Du 
+- 20190401
 
 # PaperReading
-Computer Vision Paper Reading for ISCAS
+- Computer Vision Paper Reading for ISCAS
 # Reference
 - [科研在线团队文档库](http://ddl.escience.cn/iscas007) 
 - [注册科研在线帐号](https://passport.escience.cn/regist.jsp)
