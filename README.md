@@ -26,6 +26,10 @@ Computer Vision Paper Reading for ISCAS
 [link](https://arxiv.org/pdf/1606.03126.pdf)
 -  [Towards AI-complete Question Answering: A Set of Prerequisite Toy Tasks.-ICLR2016] 杜肖冰
 [link](https://arxiv.org/pdf/1502.05698.pdf)
+-  [Hierarchical Memory Networks-ICLR2017] 杜肖冰 [link](https://openreview.net/pdf?id=BJ0Ee8cxx)
+-  [Scaling Memory- Augmented Neural Networks with Sparse Reads and Writes-NIPS2016] 杜肖冰 
+[link](hhttps://me.net.nz/files/publications/rae16.pdf)
+
 
 # 2019/05/27 A组
 - Jiyang Gao
