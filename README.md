@@ -24,8 +24,8 @@ Computer Vision Paper Reading for ISCAS
 [link](https://arxiv.org/pdf/1506.07285.pdf)
 -  [Key-value Memory Networks for Directly Reading Documents.-EMNLP2016] 杜肖冰
 [link](https://arxiv.org/pdf/1606.03126.pdf)
--  [Dynamic Key-Value Memory Network for Knowledge Tracing.-WWW2017] 杜肖冰
-[link](https://arxiv.org/pdf/1611.08108.pdf)
+-  [Towards AI-complete Question Answering: A Set of Prerequisite Toy Tasks.-ICLR2016] 杜肖冰
+[link](https://arxiv.org/pdf/1502.05698.pdf)
 
 # 2019/05/27 A组
 - Jiyang Gao
