@@ -16,6 +16,13 @@ Computer Vision Paper Reading for ISCAS
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/05/28 A组
+- External Memory
+-  [End-To-End Memory Networks-NIPS2015] 杜肖冰 [link](https://arxiv.org/pdf/1503.08895.pdf)
+-  [Memory Networks.-ICLR2015] 杜肖冰 [link](https://arxiv.org/pdf/1410.3916.pdf)
+-  [Ask Me Anything:Dynamic Memory Networks for Natural Language Processing-ICML2016] 杜肖冰
+[link](https://arxiv.org/pdf/1506.07285.pdf)
+
 # 2019/05/27 A组
 - Jiyang Gao
 -  [MAC: Mining Activity Concepts for Language-based Temporal Localization-ArXiv] 杜肖冰
