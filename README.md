@@ -29,6 +29,8 @@
 -  [Hierarchical Memory Networks-ICLR2017] 杜肖冰 [link](https://openreview.net/pdf?id=BJ0Ee8cxx)
 -  [Scaling Memory- Augmented Neural Networks with Sparse Reads and Writes-NIPS2016] 杜肖冰 
 [link](hhttps://me.net.nz/files/publications/rae16.pdf)
+-  [ Multimodal Compact Bilinear Pooling for Vi- sual Question Answering and Visual Grounding-EMNLP2016] 杜肖冰 
+[link](https://arxiv.org/pdf/1606.01847.pdf)
 
 
 # 2019/05/27 A组
