@@ -51,6 +51,7 @@
 [link](http://movieqa.cs.toronto.edu/home/)
 
 # 2019/05/22 A组
+- QA
 -  [Red: Reinforced encoder-decoder networks for action anticipation.-BMVC2017] 杜肖冰
 [link](https://arxiv.org/pdf/1707.04818.pdf)
 -  [Decomposing motion and content for natural video sequence prediction-ICLR2017] 杜肖冰
