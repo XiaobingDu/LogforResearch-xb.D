@@ -17,6 +17,11 @@
 
 # next time
 # 2019/05/28 A组
+- Long-term Feature Bank 
+-  [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions-CVPR2018] 杜肖冰 [link](https://arxiv.org/pdf/1705.08421.pdf)
+
+
+# 2019/05/28 A组
 - External Memory
 -  [End-To-End Memory Networks-NIPS2015] 杜肖冰 [link](https://arxiv.org/pdf/1503.08895.pdf)
 -  [Memory Networks.-ICLR2015] 杜肖冰 [link](https://arxiv.org/pdf/1410.3916.pdf)
