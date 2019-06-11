@@ -16,6 +16,13 @@
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/06/10 A组
+- video QA 
+-  [TVQA: Localized, Compositional Video Question Answering-EMNLP2018] 杜肖冰 [link]
+(https://arxiv.org/pdf/1809.01696.pdf)
+-  [TVQA: Localized, Compositional Video Question Answering-EMNLP2018-GithubCode] 杜肖冰 [link]
+(https://github.com/jayleicn/TVQA)
+
 # 2019/05/28 A组
 - Long-term Feature Bank 
 -  [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions-CVPR2018] 杜肖冰 [link](https://arxiv.org/pdf/1705.08421.pdf)
