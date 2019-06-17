@@ -16,6 +16,10 @@
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/06/17 A组
+- Scene Graph
+-  [Graph R-CNN for Scene Graph Generation-2018] 杜肖冰 [link](https://arxiv.org/pdf/1808.00191.pdf)
+
 # 2019/06/10 A组
 - video QA 
 -  [TVQA: Localized, Compositional Video Question Answering-EMNLP2018] 杜肖冰 [link](https://arxiv.org/pdf/1809.01696.pdf)
