@@ -18,7 +18,11 @@
 # next time
 # 2019/07/18 A组
 - CVPR2019 video moment location
-- [MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment]杜肖冰[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.pdf)
+- [MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment-CVPR2019]杜肖冰[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.pdf)
+- dynamic filter
+- [Actor and action video segmentation from a sentence-CVPR2018]杜肖冰[link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf)
+- [Tracking by natural language specification-CVPR2017]杜肖冰[link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf)
+
 
 # 2019/06/17 A组
 - Scene Graph
