@@ -16,6 +16,12 @@
  单元格内容l  | 单元格内容
 
 # next time
+# 2019/07/19 A组
+- single shot detection
+- [Ssd: Single shot multibox detector-ECCV2016]杜肖冰[link](https://arxiv.org/pdf/1512.02325)
+- [Single shot temporal action detection-ACMMM2017]杜肖冰[link](https://arxiv.org/pdf/1710.06236.pdf)
+- [S3d: Single shot multi-span detector via fully 3d convolutional network-BMVC2018]杜肖冰[link](https://arxiv.org/pdf/1807.08069.pdf)
+ 
 # 2019/07/18 A组
 - CVPR2019 video moment location
 - [MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment-CVPR2019]杜肖冰[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.pdf)
