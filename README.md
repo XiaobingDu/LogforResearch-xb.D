@@ -16,6 +16,10 @@
  单元格内容l  | 单元格内容|
 
 # next time
+# 2019/09/17
+- [Attention Mechanism]
+[github](https://zhuanlan.zhihu.com/p/57501837)
+
 # 2019/07/19 A组
 - single shot detection
 - [Ssd: Single shot multibox detector-ECCV2016]杜肖冰[link](https://arxiv.org/pdf/1512.02325)
