@@ -19,6 +19,8 @@
 # 2019/09/17
 - [Attention Mechanism]
 [github](https://zhuanlan.zhihu.com/p/57501837)
+- [详解深度学习中的注意力机制]
+[link](https://www.jianshu.com/p/9b922fb83d77)
 
 # 2019/07/19 A组
 - single shot detection
