@@ -25,6 +25,8 @@
 [link](https://www.zhihu.com/question/68482809)
 - [计算机视觉中的注意力机制]
 [link](https://zhuanlan.zhihu.com/p/56501461)
+- [几篇较新的计算机视觉Self-Attention]
+[link](https://zhuanlan.zhihu.com/p/44031466)
 
 # 2019/07/19 A组
 - single shot detection
