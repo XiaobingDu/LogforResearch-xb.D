@@ -27,6 +27,10 @@
 [link](https://zhuanlan.zhihu.com/p/56501461)
 - [几篇较新的计算机视觉Self-Attention]
 [link](https://zhuanlan.zhihu.com/p/44031466)
+- [Attention算法调研(四) —— 视觉应用中的Soft Attention]
+[link](https://zhuanlan.zhihu.com/p/53026371)
+- [Attention算法调研（视觉应用概况）]
+[link](https://zhuanlan.zhihu.com/p/52925608)
 
 # 2019/07/19 A组
 - single shot detection
